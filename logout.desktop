@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name = Logout
+Comment = Use to logout of the system without a prompt
+Exec = gnome-session-quit --logout --no-prompt
+Type = Application
+Category = System

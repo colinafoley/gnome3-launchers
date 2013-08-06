@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name = Restart
+Comment = Use this to restart the system
+Exec = sudo shutdown -r now
+Type = Application
+Categories = System

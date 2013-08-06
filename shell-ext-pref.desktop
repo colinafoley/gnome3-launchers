@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name = Gnome Shell Extension Preferences
+Comment = Use this to configure Gnome Shell Extensions
+Exec = gnome-shell-extension-prefs
+Type = Application
+Icon = preferences-system
